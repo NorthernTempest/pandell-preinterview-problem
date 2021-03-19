@@ -1,0 +1,8 @@
+{
+	"name": "pandell-interview-problem",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "node ./src/app.js",
+		"test": "node ./test/test.js"
+	}
+}
